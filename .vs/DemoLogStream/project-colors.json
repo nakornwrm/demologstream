@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10017e6b-04e3-42df-a2d3-4b88ac06f910": {
+      "ProjectGuid": "10017e6b-04e3-42df-a2d3-4b88ac06f910",
+      "DisplayName": "DemoLogStream",
+      "ColorIndex": 0
+    },
+    "ac1f4012-3358-4c58-a5ab-c84a7c8e8c8e": {
+      "ProjectGuid": "ac1f4012-3358-4c58-a5ab-c84a7c8e8c8e",
+      "DisplayName": "DemoLogStream",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
